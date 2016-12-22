@@ -1,2 +1,5 @@
-###Insertion sort
-Implementation of insertion sort on a `vector<int>` using iterators.
+Collection of algorithms
+---
+
+###Sorting
+* [Insertion sort](sorting/insertion_sort)
