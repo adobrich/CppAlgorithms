@@ -1,5 +1,5 @@
 Collection of algorithms
 ---
 
-###Sorting
+### Sorting
 * [Insertion sort](sorting/insertion_sort)
